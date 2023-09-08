@@ -1,0 +1,27 @@
+{
+    "id": "A2B7774D",
+    "path": "~/R_Space/Machine_Learning_with_R_tidyverse_mlr/59e95a4689eeb92f380f4ab2_202105_394e9018-b221-11eb-aa12-00163e0a088c_ML_R_tidyverse_mlr_code/CH09_LINEAR_REGRESSION.R",
+    "project_path": "59e95a4689eeb92f380f4ab2_202105_394e9018-b221-11eb-aa12-00163e0a088c_ML_R_tidyverse_mlr_code/CH09_LINEAR_REGRESSION.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1677378013932.0,
+    "source_on_save": false,
+    "relative_order": 10,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "109,0",
+        "scrollLine": "91",
+        "disableDependencyDiscovery": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1693527619,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1693527619252,
+    "read_only": false,
+    "read_only_alternatives": []
+}
